@@ -1,0 +1,4 @@
+To generate sub-component inside a component 
+->we use the following command -> ng generate component home-page/header --skip-import
+->--skip-import does not import the module in app.module.ts
+->here we have to do it manually

@@ -1,0 +1,5 @@
+to create component outside app folder
+->go inside the src folder
+->and type the following command
+  ng g c employee --module app
+->if we type this command outside the src folder, it will create the component inside the app folder   
